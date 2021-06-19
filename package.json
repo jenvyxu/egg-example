@@ -18,7 +18,11 @@
   },
   "homepage": "https://github.com/jenvyxu/egg-example#readme",
   "dependencies": {
-    "egg": "^2.29.4"
+    "egg": "^2.29.4",
+    "egg-view": "^2.1.3",
+    "egg-view-nunjucks": "^2.3.0",
+    "moment": "^2.29.1",
+    "nunjucks": "^3.2.3"
   },
   "devDependencies": {
     "egg-bin": "^4.16.2"
